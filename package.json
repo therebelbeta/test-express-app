@@ -1,0 +1,27 @@
+{
+  "name": "test-express-app",
+  "version": "1.0.0",
+  "description": "awesome sauce",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/therebelrobot/test-express-app.git"
+  },
+  "keywords": [
+    "awesome",
+    "sauce"
+  ],
+  "author": "Trent Oswald <trentoswald@therebelrobot.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/therebelrobot/test-express-app/issues"
+  },
+  "homepage": "https://github.com/therebelrobot/test-express-app",
+  "dependencies": {
+    "countryjs": "^1.0.3",
+    "express": "^4.10.4"
+  }
+}
